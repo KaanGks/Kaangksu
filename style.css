@@ -146,13 +146,15 @@ body
 
     .main-section
     {
-        width: 70%;
+        padding: 100px 50px 0px 50px;
+        width: 100%;
     }
 
-    .section-image img
+    .section-image img 
     {
         width: 100%;
     }
+    
     
     .section-image 
     {
